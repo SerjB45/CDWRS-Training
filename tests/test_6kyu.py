@@ -1,0 +1,1 @@
+from task_6kyu import *
